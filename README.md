@@ -1,8 +1,8 @@
-BillBuddy
+# BillBuddy
 
-BillBuddy is a clone of SplitWise, the popular bill splitting app. BillBuddy was made with Python and React.js.
+## BillBuddy is a clone of SplitWise, the popular bill splitting app. BillBuddy was made with Python and React.js.
 
-Screenshots
+### Screenshots
 
 Signup Page
 ![Screenshot (97)](https://github.com/user-attachments/assets/973ef311-c90f-4bc6-bb38-e3fee7432165)
@@ -16,7 +16,7 @@ Recent Activity
 All Expenses
 ![Screenshot (100)](https://github.com/user-attachments/assets/4ae0b5ae-6721-4bca-9af1-614dd7406140)
 
-Technical Details
+## Technical Details
 BillBuddy users can split bills with other users they are friends with evenly. 
 
 
