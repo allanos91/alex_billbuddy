@@ -18,7 +18,7 @@ All Expenses
 
 ## Technical Details
 BillBuddy users can split bills with other users they are friends with evenly. 
-
+The following code allows for users to split within 1 cent of each other when the expense isn't evenly split among all users.
 
 ```
 
