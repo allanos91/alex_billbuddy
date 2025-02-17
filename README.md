@@ -19,11 +19,15 @@ All Expenses
 ## Technical Details
 BillBuddy users can split bills with other users they are friends with evenly. 
 
+
+```
+
 if (difference < .03 && difference !== 0) {
             let bigNum = (parseFloat(amountArr[amountArr.length-1].amount) * 100) + (difference * 100)
             let smallNum = (bigNum / 100).toString()
             amountArr[amountArr.length-1].amount = smallNum
         }
+```
 
 
 Features
